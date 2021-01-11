@@ -1,7 +1,11 @@
+import App from "../App.js"
+import CourseForm from "./CourseForm.js"
+
 const CourseCard = (props) => {
+
   return (
     <>
-      <p>This is Course card</p>
+      <p>ID: </p>
     </>
   );
 };
